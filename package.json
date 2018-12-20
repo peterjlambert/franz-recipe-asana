@@ -1,0 +1,12 @@
+{
+  "id": "asana",
+  "name": "Asana",
+  "version": "1.0.0",
+  "description": "Asana",
+  "main": "index.js",
+  "author": "Pete Lambert <pete@petelambert.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.asana.com/0/home/938810031773407"
+  }
+}
